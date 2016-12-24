@@ -2,7 +2,7 @@
 title: "hw01"
 author: "Daniil Belkov"
 date: '7 ноября 2016 г '
-output: pdf_document
+output: html_document
 ---
 
 ## Работа с Данными
